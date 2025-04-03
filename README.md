@@ -10,7 +10,7 @@ Ferragos is weird. It’s a giant ocean planet with ring-shaped continents and b
 
 There’s magic, yeah. Sort of. It’s more like... music? Resonance? Feelings that punch you in the chest and make machines blink? I don’t know, I’m not a wizard. Ask Vexra. Actually don’t. She bit someone last time.
 
-Trax (the guy translating this) is apparently important. He used to be ██████████████████. Now he’s something *more*. Or *less*. Depends who you ask. is apparently important. He used to be something else, now he’s something *more*. Or *less*. Depends who you ask. 
+Trax (the guy translating this) is apparently important. He used to be ██████████████████. Now he’s something *more*. Or *less*. Depends who you ask. is apparently important.  
 
 I mostly just fix things and try not to explode.
 
