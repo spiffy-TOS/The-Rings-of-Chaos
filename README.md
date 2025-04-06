@@ -1,54 +1,71 @@
-# 🌀 The Rings of Chaos – README
+# 🌌 The Rings of Chaos
 
-## A Rough Introduction, As Scribbled by Skitch (translated by Trax)
-
-Okay so listen — this isn't, like, an official guide or anything. It's just a bunch of notes I (Skitch) left lying around because people kept asking what this world *is*. And then Trax found them and cleaned up the spelling and probably removed all the jokes about soup. You're welcome. Or not. Whatever.
-
-Anyway.
-
-Ferragos is weird. It’s a giant ocean planet with ring-shaped continents and buried ██████ that nobody really understands. It’s a giant ocean planet with ring-shaped continents and buried stuff nobody really understands. The land itself was built forever ago — like, really built — on purpose. We just don’t know what that purpose *was*. People here fight about it. A lot.
-
-There’s magic, yeah. Sort of. It’s more like... music? Resonance? Feelings that punch you in the chest and make machines blink? I don’t know, I’m not a wizard. Ask Vexra. Actually don’t. She bit someone last time.
-
-Trax (the guy translating this) is apparently important. He used to be ██████████████████. Now he’s something *more*. Or *less*. Depends who you ask. is apparently important.  
-
-I mostly just fix things and try not to explode.
+**A myth-tech RPG project by Ian Brooks**  
+*Last updated: April 06, 2025*
 
 ---
 
-## 🌍 What You’re Walking Into
+## 🎮 What is *The Rings of Chaos*?
 
-- Ferragos is big. Like... way too big.
-- Everything’s old, broken, or lying about what it really is.
-- Factions run the show, but none of them agree on what the show *is*.
-- Magic is tied to memory and emotion. Don’t bottle things up or you might literally combust.
-- If something’s humming, glowing, or vibrating — ██████████████████████████████████████████. — don’t lick it. Unless it asks nicely.
+*The Rings of Chaos* is a cinematic, lore-rich, emotionally layered RPG set on **Ferragos** — a once fractured world now united against a cosmic threat. Built in Python as a passion project, the game blends:
 
----
-
-## 🎮 Stuff You Can Probably Expect
-
-- Talking to people who don’t want to be understood.
-- Making choices that matter more later than now.
-- Fixing ██████████████████████████████.
-- Feeling things, probably against your will.
-- A quest board. Eventually. We’re working on it.
+- 💫 Character-driven story arcs
+- 🧠 Emotional worldbuilding
+- ⚔️ Unique class-based combat
+- 🛸 Ancient tech, alien invaders, and poetic chaos
 
 ---
 
-## 🛠 What’s Actually Playable Right Now
+## 🧠 World Snapshot
 
-Nothing. Still worldbuilding with light coding. More to come.
+- **World**: Ferragos — a massive oceanic planet with floating island rings and planetary harmony... until something woke up.
+- **Tone**: Bittersweet myth, black comedy, and cosmic horror — with a hint of hope.
+- **Main Character**: You play as **Trax**, a reborn warrior deployed by the planet itself.
+- **Magic System**: The **Corelink** — a class-activated, tech-based conduit for wielding magic and weapon techniques.
 
 ---
 
-## ❓ Why This README Exists
+## 🧙‍♂️ Playable Classes
 
-So people stop asking what the game is and I can go back to rewiring melted panels.
+Each class reflects a different playstyle and personality:
 
-Also, because Trax said it might help someone “███████████████████████████████████████.” Which is just fancy talk for: *stuff's broken, and you’re part of the fixing.*
+- ⚔️ **Ruinblade** — The tank. Battle-born and brutally practical.
+- 🗡️ **Rift Walker** — The rogue. Master of distortion and deception.
+- 🎶 **Tune Priest** — The wizard. Harmonic chaos channeler.
+- 🐲 **Gremlin Summoner** — The summoner. Commands beasts, weather, and problems.
+- ☠️ **Bone Wizard of Party Resurrection** — The necromancer. Undead, unhinged, and unnervingly helpful.
 
-Good luck. Or don’t. Again — whatever.
+---
 
-— Skitch (as edited by Trax)
+## 🌌 The Threat
 
+Ferragos is peaceful now — almost too peaceful. The enemy isn’t from within…  
+It’s from *above*.
+
+An alien force has arrived to awaken something massive and ancient buried deep in the planet’s core — something the united cultures of Ferragos sealed away eons ago.
+
+---
+
+## 💡 Dev Goals
+
+This blog and devlog archive will capture:
+
+- 🛠️ The creation process (both code & design)
+- 🧠 Emotional reflections from Ian (creator & survivor)
+- 🪔 Worldbuilding and lore exploration
+- 🎨 Concept art and class sketches
+- 💀 Weirdness. Honest moments. Late-night breakthroughs.
+
+---
+
+## ☕ Support
+
+If this world means something to you —  
+if you see yourself in the echoes or laugh at the chaos —  
+consider [buying me a coffee](https://ko-fi.com/your-kofi-link-here).
+
+---
+
+## 📌 Status
+
+Actively in development. Stay weird.
