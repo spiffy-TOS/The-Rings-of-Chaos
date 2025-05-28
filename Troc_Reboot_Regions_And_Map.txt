@@ -1,0 +1,57 @@
+**The Rings of Chaos — Regions & World Map (Reboot Edition)**
+
+---
+
+### 🪐 Planet Overview: Cinderverge
+Cinderverge is a lush, engineered paradise world divided into five massive, ring-shaped continents known as the **Land Rings**. Each ring has a unique environment, forgotten secrets, and some hidden connection to the **Prime Rings** — the five legendary relics that have now returned.
+
+From above, the planet looks like a flower made of concentric land halos — or a vault built to never be opened. At its heart lies the true danger: **Korangar**.
+
+---
+
+### 🌍 The Five Rings of Cinderverge
+
+#### 🔥 **Ashfold Ring** – “The Ruin of Flame”
+- A volcanic wasteland with fire temples and lavaforged ruins
+- Location of a dormant Prime Ring containment vault
+- Monastic orders here lean toward militarism
+- Constant earthquakes since the Broker’s return
+
+#### 🌿 **Verdancy Ring** – “The Bloom That Watches”
+- Dense jungle, overgrown machines, ancient bio-labs
+- The plant life is semi-conscious and reactive to Prime energy
+- Former research colonies now overrun with fauna and forgotten AI
+- Home to some of the oldest Prime Forgian relics
+
+#### ❄️ **Glassmire Ring** – “The Ice That Remembers”
+- Frozen wastelands with fractal ice monasteries
+- Light-based memory projection tech buried deep in the ice
+- Monks here speak only in reflection (mirror puzzles and logic quests)
+- Ring was silent for centuries — now signals have resumed
+
+#### 🌊 **Coral Ring** – “The Floating Chorus”
+- Shimmering water-ring composed of partially submerged cities and reefs
+- Home of aquatic species and psionic resonance tech
+- Music and tone used to communicate and shape local environment
+- The sea levels are changing… fast
+
+#### ⛰️ **Thorncradle Ring** – “The Broken Crown”
+- Craggy, high-altitude ridges, wind temples, echo chambers
+- Ring has literal gaps torn out of it from a past war
+- Monasteries here are fractured and independent
+- Skypaths can shift mid-crossing; gravity itself unreliable
+
+---
+
+### 🧭 World Design Principles
+- Each ring has its own biome, history, and Prime Ring vault
+- Rings are connected by orbital rail routes or jumpgates (some now malfunctioning)
+- Quest and dungeon design embraces verticality, exploration, and discovery through lore objects
+- The Loose Screw serves as the central fast-travel anchor between regions
+
+---
+
+### 🧩 Gameplay Hook: Ring Rebalancing
+- As the Broker activates the Prime Rings, the world begins to fracture
+- Gravity, light, sound, and even **player movement mechanics** change slightly per ring
+- Players must “rebalance” each ring through gameplay to prevent Cinderverge from collapsing inward

@@ -1,0 +1,67 @@
+**The Rings of Chaos — Class Progression & Player Growth (Reboot Edition)**
+
+---
+
+### 🎯 No Classes. Only Chaos.
+In the rebooted *Rings of Chaos*, you don’t select a class — you play as **Spike**, a legendary pirate turned tech gunslinger with a busted reality-bending flask in his coat pocket.
+
+Rather than a traditional RPG class system, player progression is shaped by:
+- **Tech Upgrades** (for Spike’s custom firearms and gadgets)
+- **Flask Mutations** (new Paradox Flask effects unlocked over time)
+- **Quest Outcomes** (which shift Spike’s passive bonuses and tactical options)
+- **Companion Loadouts** (Skitch and others add new mechanics via synergy)
+
+---
+
+### 🔧 Upgrade Paths
+
+#### 🔫 Gunslinger Mods
+- **Sidearm Slot**: Core pistol, customizable with 3 mods
+  - Mods: ricochet, phase ammo, shrapnel burst, “sticky argument” (bullets talk back)
+- **Heavy Weapon Slot**: One experimental weapon at a time
+  - Examples: beam shotgun, gravity launcher, magnetic trip mine glove
+
+#### 🧪 Gadget Track
+- Up to 3 equippable gadgets
+  - Ex: portable portal puck, smoke puff 2.0 (actually flammable), arcwire grenade
+
+#### 🍾 Flask Evolution
+- The Paradox Flask gains “glitch nodes” the more you use it
+  - Nodes unlock new chaos effects
+  - Some permanently alter combat rules
+  - Others rewrite dialogue or alter reality flavor
+
+---
+
+### 🚀 Progression Through Experience
+- Instead of leveling, players gain **Upgrades** and **Unlocks** through:
+  - Major quest completions
+  - Board game victories
+  - Solving paradoxes (intended or otherwise)
+  - Using Skitch’s unstable forge (once repaired)
+
+---
+
+### 🧍 Companion Influence
+Your companions add unique battle options:
+
+#### Skitch (Always Equipped)
+- Boosts gadget efficiency
+- Occasionally repairs your gun *during combat*
+- Will activate his “Mechanic Meltdown” on death or low HP
+
+#### Others (TBD)
+- Unlock companions through story events
+- Bring one active per mission (others offer passive bonuses)
+- Example: Grubslap may randomly generate loot… or throw it at enemies
+
+---
+
+### 📈 Replay Value
+- Alternate flask builds unlock only in New Game+
+- Multiple gadget trees = multiple playstyles
+- Quest outcomes can influence unlock path (e.g., sabotaging a monk vault grants Flask upgrade instead of weapon mod)
+
+---
+
+*You don’t build a class. You build Spike into the version of himself that might survive this mess.*
