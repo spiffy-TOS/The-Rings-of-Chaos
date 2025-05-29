@@ -1,0 +1,10 @@
+{
+  "obsidian-git:fetch": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": ";"
+    }
+  ]
+}
