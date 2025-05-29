@@ -1,4 +1,85 @@
-**The Rings of Chaos — World Lore (Reboot Edition)**
+**The Rings of Chaos — Combined Combat & World Lore (Reboot Edition)**
+
+---
+
+### 🔫 Spike’s Combat Style: Tech Gunslinger
+
+Spike fights like a brilliant disaster held together with duct tape and rage. He uses:
+
+* **Custom-built firearms** with unpredictable mod attachments
+* **Experimental gadgets** that often explode *just barely* in his favor
+* **Improvised pirate tech** from old war relics, bar gear, or stolen monk artifacts
+
+He’s precise, creative, and a little too confident. Think: *Han Solo with a bugged skill tree.*
+
+---
+
+### 🌀 Latent Power: The Paradox Flask
+
+During the heist escape, a shard of a Prime Ring embedded itself in Spike’s body — specifically inside his hip flask. Now known as the **Paradox Flask**, this cursed relic links Spike to alternate realities.
+
+**Mechanic:**
+
+* Once per battle, Spike can drink from the flask
+* There’s a random chance it syncs him to a timeline where things *went right*
+* The result? One wild, game-changing effect
+
+**Examples of Flask Effects:**
+
+* Swap positions with an enemy
+* Summon ghost versions of fallen crew
+* Gain +1000 luck for 10 seconds
+* Weapon turns into a duck that shoots laser eggs
+* Everyone suddenly speaks Prime Forgian for 30 seconds
+
+**Note:** Every use includes Skitch yelling: “**DON’T DRINK THAT, YOU DUMBASS, IT’S STILL WARMING UP!**”
+
+---
+
+### 🤖 Skitch in Combat
+
+* Skitch is your backup brawler and battlefield technician
+* He wields junk-mod weapons and magnetized explosives
+* Occasionally screams gibberish that grants buffs if you interpret it right
+* Unlockable ability: *Mechanic’s Meltdown* — causes every device on the battlefield to activate at once, including enemy weapons
+
+---
+
+### 🔨 Hammy the Hammer (Skitch’s Weapon)
+
+Skitch wields a spiked mallet named **Hammy the Hammer**, which is larger than he is.
+
+**Base Power: Mega Ham**
+
+* Deals damage equivalent to being hit by **500 fully grown male pigs**
+* First upgrade boosts this to **1,000 pigs**
+* Max upgrade delivers **5,000 pigs** worth of force
+
+**Augments (Unlockable Later in Game):**
+
+* Acid
+* Fire
+* Ice
+* **Chaos** (Hidden augment found only through a brutally difficult side quest)
+
+Despite its absurdity, Hammy is extremely effective. Skitch swings it with shocking strength and precision. Enemies rarely see it coming — or survive it when they do.
+
+---
+
+### ⚔️ Enemies & Combat Design Goals
+
+* Combat should feel **chaotic but controllable**
+* Enemies are often **quirky** (think: monks who weaponize board games, drunken mech-suit bounty hunters)
+* Boss fights will often **change rules mid-fight** (e.g., entering Round 2 of a fight causes the entire UI to glitch)
+* Strategy comes from understanding your tools — not rigid builds
+
+---
+
+### 🧪 Potential Additions (Future Consideration)
+
+* Unlockable gadgets through bar quests
+* Moddable guns with “stupid-smart” upgrades (e.g., bullet ricochet that becomes homing when you miss badly)
+* Board game mechanics applied to mid-battle choices (roll to dodge? bluff to confuse?)
 
 ---
 
@@ -61,3 +142,7 @@ Stone-bodied tribal natives covered in glowing rune-like tattoos earned througho
 What happens when relics of absolute power fall into the hands of pirates, monks, trashbugs, and rock-people with trust issues?
 
 You get The Rings of Chaos.
+
+---
+
+*Spike’s not the strongest or the fastest. He just fights like the universe owes him money.*
