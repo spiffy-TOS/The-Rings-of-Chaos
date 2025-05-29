@@ -1,81 +1,67 @@
-# 🧪 *The Rings of Chaos* – Dev Repository
+# 🌌 The Rings of Chaos
 
-**Active development repo for the game systems, mechanics, assets, and backend logic**  
-_Last updated: April 06, 2025_
+**The Rings of Chaos** is a high-res 8-bit sci-fi RPG about retired space pirates, ancient chaos relics, and the end of paradise. Set on the lush and mysterious planet **Cinderverge**, you play as **Spike**, a brilliant-but-broken ex-pirate bar owner whose past comes roaring back when the Broker returns — wielding the power of all five **Prime Rings**.
 
----
+### 🧨 Pitch
+After the greatest heist in galactic history, Spike and his chaotic crew retired to the peaceful world of Cinderverge. They thought it was over.  
+Seven years later, the man who bought their stolen Ring is back — and he's found the other four.
 
-## 🎮 Project Summary
+Now paradise is unraveling, the Rings are waking something ancient, and your old crew is dead.
 
-*The Rings of Chaos* is a myth-tech RPG built in Python with future support for animation, branching dialogue, and custom combat mechanics.
-
-This repo contains:
-- Core game logic
-- Procedural class framework
-- Corelink spell system
-- Dialogue/event scripting
-- Development logs and task planning
+You and your mechanic Skitch are all that’s left. Time to gear up, drink deep, and raise hell.
 
 ---
 
-## 🧠 Tech Stack
+## 🌍 World Overview: Cinderverge
 
-- **Language**: Python 3.11+
-- **Assets**: Sprite-based, layered PNG imports (Tiled, aseprite-ready)
-- **Tools**: Custom class system, JSON-driven spell files
-- **Engine Goals**:
-  - Modular narrative engine
-  - Turn-based combat w/ initiative ladder
-  - Event system for interactive world states
+A paradise world engineered to protect (or imprison) the **Prime Rings** — five god-tier relics scattered across space billions of years ago.
 
----
+Cinderverge is divided into **five massive ring-shaped continents**, each with unique biomes, cultures, and secrets. Its surface has been peaceful for eons… until now.
 
-## 📂 Repo Structure
-
-```bash
-rings-of-chaos/
-├── game/               # Main game code (loops, events, battles)
-├── assets/             # Art, sprites, sounds
-├── data/               # JSONs for classes, spells, enemies
-├── docs/               # Worldbuilding + design notes
-├── tests/              # Unit tests for core systems
-├── README.md           # This file
-└── requirements.txt    # Dependencies (if any)
-```
+- 🧱 **The Prime Forgians** – techno-monk keepers of ancient Ring knowledge, storing it in absurdly complex board games  
+- 🪨 **The Stobbon** – stone-bodied mystics who only move when unobserved, bound by ancestral traditions  
+- 🤪 **The Therbrgzgzzgrrrr** – chaotic shapeshifters who communicate through smell and scream-laughter
 
 ---
 
-## 🛠️ Getting Started (For Devs)
+## 🔫 Main Character: Spike
 
-```bash
-git clone https://github.com/your-username/rings-of-chaos.git
-cd rings-of-chaos
-python main.py
-```
+A **tech gunslinger** and former pirate captain, Spike fights with:
 
-Ensure you're using Python 3.11+.  
-No external dependencies required (for now). Just run and go.
+- Custom-built firearms and experimental mods  
+- Pirate gadgets and repurposed bar tech  
+- Improvised tools that *probably* won't explode
 
----
+### 🌀 Latent Power: The Paradox Flask
 
-## ✅ Active To-Do
+A quantum-entangled liquor flask embedded with a shard of a Prime Ring. When Spike drinks from it in combat, there's a random chance it syncs with a timeline where things went *horribly right*.
 
-- [ ] Implement class ability cooldown tracking
-- [ ] Add animation hooks to battle events
-- [ ] Expand Corelink interactions
-- [ ] Create testable dialogue interaction system
-- [ ] Map support for branching outcomes
+The effects are dramatic, unpredictable, and always game-changing.  
+Skitch hates it. Spike loves it. The universe isn’t sure.
 
 ---
 
-## 🤝 Credits
+## 🎮 Gameplay Features
 
-**Creator & Worldbuilder**: Ian Brooks  
-**AI Co-Dev & Lore Assistant**: Alfy (aka ChatGPT in main-character mode)
+- Tactical, chaotic combat with guns, gadgets, and paradoxes  
+- Build your crew from survivors, gamblers, scientists, and cosmic weirdos  
+- Explore each Ring continent and unravel the mystery of Cinderverge  
+- Battle the **Broker**, who seeks to awaken **Varnagor**, a sleeping planet-god  
+- Survive the final confrontation: four escalating boss forms of **Korangar**
 
 ---
 
-## ☕ Support
+## 🧠 Tone & Style
 
-Like the project? [Buy Ian a coffee](https://ko-fi.com/your-link-here) to fuel the next spell cycle.
+- Mix of comedy, cosmic horror, and heartfelt character drama  
+- Art style: **high-res 8-bit** pixel visuals with vibrant palettes and chunky silhouettes  
+- Dialogue blends humor, mystery, and chaotic energy  
+- Think: *Futurama meets Hades meets Chrono Trigger*
 
+---
+
+## 🚧 Status
+
+> Project in active development by **Spiffy Productions**  
+> Engine: Godot  
+> Follow development at [The Infinite Blog](https://your-blog-link-here)  
