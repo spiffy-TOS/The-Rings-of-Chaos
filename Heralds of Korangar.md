@@ -56,6 +56,7 @@ The six Heralds of Korangar are powerful, chaotic entities that emerged when the
   * `Backspace Barrage`: Performs rapid karate strikes while seated.
   * `Insert Mode`: Summons spinning ghost office chairs.
   * `Ctrl+Alt+Delete`: Temporarily traps player in a cubicle made of pencils.
+* **Big Hit Quote**: When Wick John lands a powerful attack, he says "Whoa." — delivered in perfect Keanu-in-the-Matrix fashion
 
 ---
 
