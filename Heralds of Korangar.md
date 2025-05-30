@@ -1,6 +1,6 @@
-## The Heralds of Varnagor
+## The Heralds of Korangar
 
-The six Heralds of Varnagor are powerful, chaotic entities that emerged when the Broker placed the third Prime Ring on Cinderverge. Each one manifests in a different part of the world, spreading madness and corruption. The player encounters the first Herald in the vertical slice, with the others encountered later in the full game.
+The six Heralds of Korangar are powerful, chaotic entities that emerged when the Broker placed the third Prime Ring on Cinderverge. Each one manifests in a different part of the world, spreading madness and corruption. The player encounters the first Herald in the vertical slice, with the others encountered later in the full game.
 
 ---
 
@@ -86,3 +86,17 @@ The six Heralds of Varnagor are powerful, chaotic entities that emerged when the
 * **Wacky Spin**: Spins rapidly, creating wind gusts that knock characters into new positions.
 * **Wacky Fakeout** (Finishing Move): Appears to deflate in defeat, only to suddenly reinflate to 5x size and slam the characters with a massive power hit.
 * **Pneumatic Revival**: Reinflates mid-battle with a different voice and new powers.
+
+---
+
+## Post-Tutorial Scene
+
+After the battle with the Inflatable Cultist, the game cuts to **Spike and Skitch back at The Loose Screw**, their bar on the bottom ring of Cinderverge. A **Prime Forgian monk** enters — visually distinct and more elaborately adorned than any other monk the player has seen.
+
+This monk delivers the **first major exposition dump**, providing information on:
+
+* The Prime Rings
+* The Broker’s actions
+* The arrival of the Heralds of Korangar
+
+This sets up the next phase of the story and opens up exploration of the bottom ring.
