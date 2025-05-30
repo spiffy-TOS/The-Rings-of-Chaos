@@ -1,6 +1,6 @@
 ## The Heralds of Varnagor
 
-The six Heralds of Varnagor are powerful, chaotic entities that emerged when the Broker placed the third Prime Ring on Cinderverge. Each one manifests in a different part of the world, spreading madness and corruption. The player encounters the first Herald in the tutorial and may pursue the remaining five across the Rings of Cinderverge.
+The six Heralds of Varnagor are powerful, chaotic entities that emerged when the Broker placed the third Prime Ring on Cinderverge. Each one manifests in a different part of the world, spreading madness and corruption. The player encounters the first Herald in the vertical slice, with the others encountered later in the full game.
 
 ---
 
@@ -9,7 +9,7 @@ The six Heralds of Varnagor are powerful, chaotic entities that emerged when the
 * A grotesque, cosmic creature resembling a Jar-Jar-style alien.
 * Speaks like Jar-Jar mimicking Yoda.
 * Absurdly chaotic and gibberish-heavy.
-* Final boss of the tutorial after four waves of lackeys.
+* Final boss of the vertical slice.
 
 ---
 
@@ -70,3 +70,19 @@ The six Heralds of Varnagor are powerful, chaotic entities that emerged when the
   * *“Must go faster!”* — Speeds up enemy turns.
   * *“Checkmate, aliens.”* — Triggers a hacking beam.
 * Head animates with unsettling charm, dripping with charisma and timeline-distorting energy.
+
+---
+
+## Tutorial Mini Boss – The Inflatable Cultist
+
+* A wacky inflatable tube man wearing a cult robe.
+* Moves unpredictably with a shifting hitbox.
+* Battle arena: A ritual chamber filled with dozens of other inactive or wobbling inflatable cultists, creating a surreal and distracting environment.
+* Introduction: A car salesman-style voice rapidly announces “Wacky Waving Inflatable Arm Flailing Tube Man” three times upon his appearance.
+
+### Attacks:
+
+* **Wacky Slap**: Flails wildly with inflatable arms to strike one or more targets.
+* **Wacky Spin**: Spins rapidly, creating wind gusts that knock characters into new positions.
+* **Wacky Fakeout** (Finishing Move): Appears to deflate in defeat, only to suddenly reinflate to 5x size and slam the characters with a massive power hit.
+* **Pneumatic Revival**: Reinflates mid-battle with a different voice and new powers.
