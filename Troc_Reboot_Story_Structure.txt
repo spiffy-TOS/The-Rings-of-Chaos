@@ -3,6 +3,7 @@
 ---
 
 ### 📖 Prologue: The Heist
+
 Years ago, Spike and Skitch pulled off the greatest pirate heist in galactic history — stealing a **Prime Ring** from a fortified military installation. But during the escape, their crew was killed in a massive explosion. Only they survived.
 
 They sold the Ring to a mysterious **Broker** and retired rich on Cinderverge.
@@ -14,44 +15,65 @@ Until the Broker returned. And this time… he brought all five Prime Rings.
 ---
 
 ### ⚙️ Act I – "Rust Never Sleeps"
-- The Broker’s arrival triggers strange events across Cinderverge
-- One of the Prime Forgians collapses in *The Loose Screw*, muttering about Monopoly and memory loss
-- Local monks begin panicking. One ancient board game begins glowing
-- Spike and Skitch are pulled back into action
-- First recruitable party member appears (TBD)
+
+* The Broker’s arrival triggers strange events across Cinderverge
+* One of the Prime Forgians collapses in *The Loose Screw*, muttering about Monopoly and memory loss
+* Local monks begin panicking. One ancient board game begins glowing
+* Spike and Skitch are pulled back into action
+* First recruitable party member appears (TBD)
+* A monster erupts near the town; the Broker is spotted fleeing
+* **Tutorial Battle**: The duo fights waves of lackeys, then defeats the **Inflatable Cultist**
+* They return to the bar, where a decked-out **Prime Forgian monk** appears with urgent news
+* The monk explains the truth: the Prime Rings were launched 3 billion years ago to prevent the galaxy's destruction
+* When Spike asks why they weren’t destroyed, the monk replies:
+
+  > "Destroy them? Of course we *considered* it. But then High Monk Jibjab said, and I quote, ‘What if they’re, like… important later?’ So we locked them in a vault made of question marks and launched them at the sky. Very official. There was a chant and everything. It rhymed with ‘banana.’"
+* Spike: “What do you need with us then?”
+* Skitch: “THE SKYMARCH HAS BEGUN! JOIN THE BLOODFEUD!”
+* Monk: “Fucking what?”
+* Spike: “Oh yeah, he’s right. Skymarch, Bloodfeud, the whole shebang. I already packed the ceremonial kazoo and three jars of war jelly. Let’s *freakin’ ride.*”
+* Monk: “But you don’t even know what is needed from you. Are you dumb or are… you… dumb?”
+* Spike: “Buddy, I’m *retired*. I don’t *need* to know. I just need something to punch, something to shoot, and someone weird to yell at. Congratulations—you just provided all three.”
+* Skitch: “AND I BROUGHT THE BLOOD-PICKLES! THE SKY CRAVES BRINE!”
+* **Main Quest Begins**: Find the next Prime Ring before the Broker does
 
 ---
 
 ### 🌒 Act II – "All Bets Are Off"
-- Each land Ring begins manifesting chaos linked to the Broker’s use of the Rings
-- Forgotten monasteries reactivate
-- The Broker sets up false sanctuaries to lure seekers of power
-- Spike must revisit places connected to the original heist (and face the ghosts of old crew)
-- The first of Korangar’s pulses hits the planet — time briefly fractures
+
+* Each land Ring begins manifesting chaos linked to the Broker’s use of the Rings
+* Forgotten monasteries reactivate
+* The Broker sets up false sanctuaries to lure seekers of power
+* Spike must revisit places connected to the original heist (and face the ghosts of old crew)
+* The first of Korangar’s pulses hits the planet — time briefly fractures
 
 ---
 
 ### 🔥 Act III – "The Ringmaster"
-- The Broker unleashes three Prime Rings in tandem, corrupting parts of Cinderverge
-- The party must win a Prime Forgian **board game gauntlet** to access lost knowledge
-- Skitch is temporarily lost to a paradox feedback loop
-- Spike uses the Paradox Flask to break space-time and rescue him
-- The Broker finishes the fifth Ring’s attunement and awakens **Korangar**
+
+* The Broker unleashes three Prime Rings in tandem, corrupting parts of Cinderverge
+* The party must win a Prime Forgian **board game gauntlet** to access lost knowledge
+* Skitch is temporarily lost to a paradox feedback loop
+* Spike uses the Paradox Flask to break space-time and rescue him
+* The Broker finishes the fifth Ring’s attunement and awakens **Korangar**
 
 ---
 
 ### 🌌 Act IV – "Four Faces of Death"
-- Final confrontation with **Korangar**, the planet-dwelling god-monster
-- Boss Fight: Four chaotic forms
+
+* Final confrontation with **Korangar**, the planet-dwelling god-monster
+* Boss Fight: Four chaotic forms
+
   1. Wacky Warrior
   2. Wiley Wizzard (with double z)
   3. Ridiculous Rogue
   4. Super Mecha Death Korangar
-- Choices made in dialogue, exploration, and sidequests may influence which allies survive
-- The fate of Cinderverge (and the Rings) hinges on whether Spike uses the Paradox Flask one last time
+* Choices made in dialogue, exploration, and sidequests may influence which allies survive
+* The fate of Cinderverge (and the Rings) hinges on whether Spike uses the Paradox Flask one last time
 
 ---
 
 ### 🌀 Post-Game
-- *New Game+* unlocks alternate flask outcomes, reversed questlines, and one final monk who never played Monopoly
-- Grubslap offers an impossible quest titled “The End That Wasn’t Yours”
+
+* *New Game+* unlocks alternate flask outcomes, reversed questlines, and one final monk who never played Monopoly
+* Grubslap offers an impossible quest titled “The End That Wasn’t Yours”
