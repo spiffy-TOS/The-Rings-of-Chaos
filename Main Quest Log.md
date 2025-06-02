@@ -1,36 +1,65 @@
-**The Rings of Chaos – Main Quest Log**
+## The Rings of Chaos – Vertical Slice Quest Log
+
+### 📜 Total Quests in Pie Slice: 5 (1 Hidden)
 
 ---
 
-### 🧭 Quest: SKYMARCH – Bloodfeud Begins
+### 🟩 Main Quests
 
-**Triggered by:** Defeating the Inflatable Cultist and returning to *The Loose Screw*
+#### 1. **The Monster Emerges** *(Tutorial Battle)*
 
-**Quest Giver:** Elaborately dressed Prime Forgian Monk
+* Trigger: Cutscene after time skip
+* Objective: Defeat the first Herald spawn
+* Unlocks basic combat commands (Attack, Block, Skills)
+* Ends with: Inflatable Cultist boss fight
 
-**Summary:**
-After an eruption of chaos, a monk appears with revelations about the Prime Rings’ true danger. He explains the galaxy-spanning threat posed by someone gathering all five Rings. Spike and Skitch—though completely uninterested in the details—agree to help once Skitch declares a “skymarch” and Spike packs a kazoo and war jelly.
+#### 2. **The Monk's Warning**
 
-**Objectives:**
+* Trigger: After defeating the Inflatable Cultist
+* Objective: Speak to the Prime Forgian monk in The Loose Screw
+* Cutscene reveals lore about the Prime Rings and upcoming threat
+* Ends with: Zarnold joins the party
 
-* Receive the monk’s explanation about the Prime Rings
-* Learn that the Rings were launched into space because High Monk Jibjab said, “What if they’re, like… important later?”
-* Accept the unhinged call to arms: “Join the bloodfeud!”
-* Prepare to track down **Ring 4** before the Broker finds it
+#### 3. **Into the Ring**
 
-**Progression Unlocks:**
+* Trigger: Zarnold joins, new area opens
+* Objective: Begin exploration of the bottom ring of Cinderverge
+* Leads into: Herald Glorble encounter prep
 
-* Access to the next major region beyond the bottom ring of Cinderverge
-* Begins the race to stop the Broker’s collection of all five Prime Rings
+---
 
-**Companion Notes:**
+### 🟨 Side Quests
 
-* Skitch insists he brought “blood-pickles” and that “the sky craves brine”
-* Spike remains committed as long as there’s something to shoot and yell at
+#### 4. **Barkley’s Bitter Bodega**
 
-**Rewards:**
+* Location: Vending machine shack in a lava-choked canyon
+* Barkley refuses to sell unless you tell him a joke he finds funny
+* Outcomes:
 
-* New travel paths
-* Story advancement
-* Skitch and Spike’s shared **Chaos Attack** meter capacity increases by +10%
-* Unlocks Chaos Gadget blueprint: *Ceremonial Kazoo (Decoy)*
+  * Bad joke = no sale
+  * Okay joke = junk item
+  * Skitch gibberish = legendary item
+
+#### 5. **Grubslap’s Glorious Lies** *(Hidden Quest)*
+
+* Trigger: Talk to Grubslap at the bar 3 separate times
+* He offers 5 side quests — 4 are fake, 1 is real
+* Fake ones include:
+
+  * Defeat the Concept of Shame
+  * Find the Sacred Nacho
+  * Collect 5 Invisible Pickles
+  * Teach a tree how to lie
+* The real quest accidentally sends the player into a hidden mini-dungeon
+* Reward: Rare accessory (e.g., "Napkin of Truth")
+
+---
+
+### 🧠 Anti-Tutorial Trigger
+
+* Trigger: After final tutorial wave
+* A pop-up appears:
+
+  > "You’ve now learned the basics... Forget all of it. Nothing can prepare you for what’s coming."
+  > "We accept payment in emotional damage."
+* Pop-up explodes into static, marking the end of tutorial content
